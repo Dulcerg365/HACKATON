@@ -1,0 +1,13 @@
+body {
+    background-color: #f9eaf9; /* Rosa */
+  }
+  .container {
+    background-color: #cce5ff; /* Azul */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .btn-agregar {
+    margin-bottom: 15px; /* Espacio antes de la tabla */
+    background-color: #E61D77 ;
+  }

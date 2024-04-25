@@ -1,0 +1,60 @@
+:root{
+    --fondo:#58BDC1;
+}
+.bg-pink{
+    background-color:var(--fondo);
+}
+
+nav .form-control{
+    border-radius: 0;
+    border:none;
+    border-bottom: 5px solid #8fd0df;
+}
+.btn-secondary{
+    background-color: #58BDC1 !important;
+}
+.btn-primary{
+    background-color: #8fd0df !important;
+}
+.btn-warning{
+    background-color: #E61D77 !important;
+  }
+.btn-danger{
+    background-color: #F5B6D0 !important;
+  }
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.formgroup2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#derecha{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+/* Estilos CSS para botones cuadrados y grandes */
+.btn-cuadrado-grande {
+    width: 90%; 
+    padding: 35px; /* Espaciado interno grande para aumentar la altura */
+    font-size: 1.5em; /* Tamaño de fuente grande para que el texto sea fácil de leer */
+    border-radius: 10; /* Borde cuadrado */
+  }
+  .rowbtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .cont {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  #map-9cd199b9cc5410cd3b1ad21cab2e54d3 {
+    height: 400px;
+  }
